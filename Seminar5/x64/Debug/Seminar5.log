@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\ASE\Rusu_Maria_ActivitateSD2024\Seminar5\Source.c(23,38): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\ASE\Rusu_Maria_ActivitateSD2024\Seminar5\Source.c(24,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\ASE\Rusu_Maria_ActivitateSD2024\Seminar5\Source.c(81,9): warning C4013: 'sumaMuncitori' undefined; assuming extern returning int
+C:\ASE\Rusu_Maria_ActivitateSD2024\Seminar5\Source.c(84,2): warning C4013: 'afiseazaLista' undefined; assuming extern returning int
+Source.obj : error LNK2019: unresolved external symbol sumaMuncitori referenced in function main
+Source.obj : error LNK2019: unresolved external symbol afiseazaLista referenced in function main
+C:\ASE\Rusu_Maria_ActivitateSD2024\Seminar5\x64\Debug\Seminar5.exe : fatal error LNK1120: 2 unresolved externals
